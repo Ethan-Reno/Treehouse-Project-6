@@ -1,0 +1,12 @@
+extends layout.pug
+
+block content
+    nav.grid-container.portfolio-breadcrumb
+      a(href='/') ← Back
+
+    #error
+
+      h2= `Sorry! There was a ${error.status} error:`
+
+      h3 Error stack for developers:
+      p #{error.stack}

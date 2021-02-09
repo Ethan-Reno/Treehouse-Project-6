@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "An app that displays random quotes on a timer and the click of a button.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://ethan-reno.github.io/Treehouse-Project-1/",
+            "github_link": "https://github.com/Ethan-Reno/Treehouse-Project-1",
+            "image_urls": ["/images/Project-1_Small.png", "/images/Project-1_Large-A.png", "/images/Project-1_Large-B.png"]
+        },
+        {
+            "id": "1",
+            "project_name": "Data Pagination and Filtering",
+            "description": "An app demonstrating pagination and filtering on a list",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://ethan-reno.github.io/Treehouse-Project-2/",
+            "github_link": "https://github.com/Ethan-Reno/Treehouse-Project-2",
+            "image_urls": ["/images/Project-2_Small.png", "/images/Project-2_Large-A.png", "/images/Project-2_Large-B.png"]
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive Form",
+            "description": "An app demonstrating validation and interactivity on an HTML form",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://ethan-reno.github.io/Treehouse-Project-3/",
+            "github_link": "https://github.com/Ethan-Reno/Treehouse-Project-3",
+            "image_urls": ["/images/Project-3_Small.png", "/images/Project-3_Large-A.png", "/images/Project-3_Large-B.png"]
+        },
+        {
+            "id": "3",
+            "project_name": "Object Oriented Programming Game",
+            "description": "A browser-based \"hangman\"-style game app",
+            "technologies": ["JavaScript", "HTML", "CSS", "OOP"],
+            "live_link": "https://ethan-reno.github.io/Treehouse-Project-4/",
+            "github_link": "https://github.com/Ethan-Reno/Treehouse-Project-4",
+            "image_urls": ["/images/Project-4_Small.png", "/images/Project-4_Large-A.png", "/images/Project-4_Large-B.png"]
+        },
+        {
+            "id": "4",
+            "project_name": "Public API Requests",
+            "description": "An app that demonstrates public API request handling using JSON objects and AJAX",
+            "technologies": ["JavaScript", "HTML", "CSS", "AJAX"],
+            "live_link": "https://ethan-reno.github.io/Treehouse-Project-5/",
+            "github_link": "https://github.com/Ethan-Reno/Treehouse-Project-5",
+            "image_urls": ["/images/Project-5_Small.png", "/images/Project-5_Large-A.png", "/images/Project-5_Large-B.png"]
+        }
+    ]
+}
